@@ -1,117 +1,117 @@
-# Hi there, I'm Sonu Tripathi! 👋
+# Mock Test Generator App
 
-Welcome to my digital garden! 🌱 I'm a passionate self-taught [Your Aspiration, e.g., Full-Stack Developer, Data Scientist, UX/UI Designer] on a journey to build amazing things.
+![App Screenshot](https://placehold.co/800x400/3B82F6/FFFFFF?text=Mock+Test+Generator+App&font=inter)
 
-This GitHub profile is my living journal. It's where I document my progress, showcase my projects, and share what I'm learning. I believe in learning in public and sharing the process, stumbles and all.
-
-* 🔭 I’m currently working on: **[Self Learning Platform]**
-* 🌱 I’m currently learning: **[Specific Technology, e.g., React Hooks, Docker]**
-* 🎯 My goal for 2024: **[Your Goal, e.g., Land my first developer job, contribute to an open-source project, or launch my first app]**
-* 💬 Ask me about: **[Topics you are comfortable with, e.g., HTML/CSS, Python, or JavaScript basics]**
-* 📫 How to reach me: **[Your Email or LinkedIn Profile URL]**
-* ⚡ Fun fact: **[A fun fact about you, e.g., I can solve a Rubik's Cube, I love hiking, etc.]**
+An intelligent web application that empowers students and educators to instantly generate custom mock tests and quizzes on any topic using the power of the Google Gemini AI.
 
 ---
 
-## 🚀 My Projects
+## ✨ Features
 
-These are the projects I'm most proud of. I built them from the ground up, tackling real-world problems and learning a ton along the way.
-
-*(Don't forget to **pin** these repositories to your GitHub profile!)*
-
-| Project | Description | Tech Stack | Repository | Live Demo |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Project 1 Name]** | A one-sentence summary of what the project does and the problem it solves. | `React` `Node.js` `MongoDB` | [Link to Repo](./link-to-repo) | [Link to Demo](./link-to-demo) |
-| **[Project 2 Name]** | A one-sentence summary of what the project does and the problem it solves. | `Python` `Django` `PostgreSQL` | [Link to Repo](./link-to-repo) | [Link to Demo](./link-to-demo) |
-| **[Project 3 Name]** | A one-sentence summary of what the project does and the problem it solves. | `HTML` `CSS` `JavaScript` | [Link to Repo](./link-to-repo) | [Link to Demo](./link-to-demo) |
-
----
-
-## 💻 My Tech Stack
-
-These are the technologies and tools I'm familiar with and have used in my projects.
-
-### Frontend
-<p align="left">
-  <a href="https.developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
-
-### Backend
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https.expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
-
-### Databases & Tools
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
-
-*(**Pro-tip:** You can find more icons at [DevIcons](https://devicon.dev/))*
+* **AI-Powered Question Generation:** Leverages the **Gemini AI API** to create high-quality questions from a simple topic prompt.
+* **Multiple Question Types:** Generates a variety of question formats, including:
+    * Multiple Choice Questions (MCQs)
+    * True/False
+    * Fill-in-the-Blanks
+    * Short Answer
+* **Fully Customizable:** Users can specify the exact topic, number of questions, and desired question types.
+* **User Authentication:** Secure user sign-up and login functionality powered by **Firebase Authentication**.
+* **Personalized Dashboard:** Users can save, review, and retake their generated tests, which are stored securely in **Cloud Firestore**.
+* **Instant Feedback:** A clean, interactive UI for taking tests and receiving immediate scores and corrections.
+* **Responsive Design:** Built with **Tailwind CSS** for a seamless experience on both desktop and mobile devices.
 
 ---
 
-## 📈 My GitHub Stats
+## 🚀 Tech Stack
 
-These stats show my activity and contributions. A new commit or project is a step forward in my learning journey!
+This project is built with a modern, scalable, and serverless-first tech stack.
 
-[![[Your Name]'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/[YOUR_USERNAME])
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&hide_border=true&count_private=true)](https://github.com/[YOUR_USERNAME])
-
----
-
-## 📚 My Learning Log
-
-I'm a firm believer in lifelong learning. Here are some of the resources that have been invaluable to me:
-
-* **Courses:** [The Odin Project](https://www.theodinproject.com/), [freeCodeCamp](https://www.freecodecamp.org/), [CS50 (Harvard)](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-* **Documentation:** [MDN Web Docs](https://developer.mozilla.org/en-US/), [React Docs](https://reactjs.org/docs/getting-started.html)
-* **Books:** *[Book Name, e.g., "Eloquent JavaScript"]*, *[Book Name, e.g., "Atomic Habits"]* (for mindset!)
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **AI:** [Google Gemini API](https://ai.google.dev/)
+* **Backend & Database:** [Firebase](https://firebase.google.com/)
+    * **Authentication:** Firebase Authentication
+    * **Database:** Cloud Firestore
 
 ---
 
-## 📫 Let's Connect!
+## ⚙️ Getting Started
 
-I'm always open to connecting with other learners, developers, and potential collaborators. Feel free to reach out!
+To get a local copy up and running, follow these simple steps.
 
-<p align="left">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://[YOUR_PORTFOLIO_WEBSITE].com">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJDMTAuOTEgMiAxMCAyLjkxIDEwIDRWMjBDMTAgMjEuMSAxMC45MSAyMiAxMiAyMkMxMy4wOSAyMiAxNCAyMS4xIDE0IDIwVjRDMTQgMi45MSAxMy4wOSAyIDEyIDJaTTQgMTBIMjhWNEg0VjEwWk0yMCAxNFYyMEgyNFYxNEgyMFpNNCAxNFYyMEg4VjE0SDRaIi8+PC9zdmc+Cg==" alt="Portfolio"/>
-  </a>
-  <a href="mailto:[YOUR_EMAIL@gmail.com]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+### Prerequisites
+
+You will need to have API keys and configuration details from the following services:
+* [Google AI Studio (for Gemini API)](https://aistudio.google.com/)
+* [Firebase (for Auth & Firestore)](https://console.firebase.google.com/)
+
+### Installation
+
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/self_learner/mock-test-generator-app.git](https://github.com/self_learner/mock-test-generator-app.git)
+    cd mock-test-generator-app
+    ```
+
+2.  **Create your configuration file:**
+    In the main project folder (e.g., in a `js/` directory), create a `config.js` file. This file will store your secret keys. *This file is included in `.gitignore` and should NOT be committed to GitHub.*
+
+3.  **Add your API keys to `config.js`:**
+    ```javascript
+    // config.js
+    
+    // 1. Firebase Configuration
+    const firebaseConfig = {
+      apiKey: "YOUR_API_KEY",
+      authDomain: "YOUR_AUTH_DOMAIN",
+      projectId: "YOUR_PROJECT_ID",
+      storageBucket: "YOUR_STORAGE_BUCKET",
+      messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+      appId: "YOUR_APP_ID"
+    };
+    
+    // 2. Gemini API Key
+    const GEMINI_API_KEY = "YOUR_GEMINI_API_KEY";
+    ```
+
+4.  **Link the config file:**
+    Make sure your main `index.html` file imports your `config.js` file *before* your main `app.js` file:
+    ```html
+    <script src="js/config.js"></script>
+    <script src="js/app.js"></script>
+    ```
+
+5.  **Run the application:**
+    Since this is a static project (HTML, CSS, JS), you can simply open the `index.html` file in your browser. For the best experience (to avoid CORS issues with Firebase), it's recommended to use a simple local server.
+    
+    If you have VS Code, you can use the **"Live Server"** extension.
+
+---
+
+## Usage
+
+1.  **Sign Up / Log In:** Create a new account or log in with your existing credentials.
+2.  **Create Test:** Navigate to the "Create New Test" page.
+3.  **Enter Details:** Fill in the topic (e.g., "JavaScript Array Methods"), the number of questions, and select the question types you want.
+4.  **Generate:** Click the "Generate Test" button and let the AI build your quiz.
+5.  **Take Test:** Once generated, you can start the test immediately.
+6.  **Review Results:** After submitting, you'll see your score and the correct answers.
+7.  **Dashboard:** Your new test is automatically saved to your dashboard for you to access or retake anytime.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have ideas for improvements or find any bugs, feel free to open an issue or submit a pull request.
+
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
