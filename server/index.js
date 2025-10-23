@@ -9,7 +9,7 @@ dotenv.config();
 
 const app = express();
 
-const FRONTEND_URL = "https://mocktest-one.vercel.app/";
+const FRONTEND_URL = "https://mocktest-one.vercel.app";
 app.use(cors({
   origin: [FRONTEND_URL, "http://localhost:5173"]
 }));
