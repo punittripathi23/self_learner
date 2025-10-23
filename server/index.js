@@ -8,7 +8,12 @@ import { GoogleGenAI } from "@google/genai";
 dotenv.config();
 
 const app = express();
-app.use(cors());
+
+const FRONTEND_URL = "https://mocktest-one.vercel.app/";
+app.use(cors({
+  origin: [FRONTEND_URL, "http://localhost:5173"]
+}));
+
 app.use(express.json({ limit: "10mb" }));
 
 // REMOVED: const PORT = process.env.PORT || 3000; (Vercel handles this)
