@@ -1,0 +1,22 @@
+# Node.js
+/mockGen/node_modules
+/server/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+# (VERY important to keep secrets off GitHub)
+.env
+.env.*
+*.env
+
+# Vite / Create React App build files
+# (Even though you don't have one now, this is good practice)
+/mockGen/dist
+/mockGen/.dist
+/mockGen/build
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
