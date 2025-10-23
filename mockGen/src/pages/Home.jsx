@@ -18,12 +18,12 @@ function Home() {
                     >
                         Generate Mock Test
                     </Link>
-                    <Link
-                        to="/analysis"
-                        className="px-6 py-3 bg-gray-200 text-gray-800 font-semibold rounded-lg shadow hover:bg-gray-300 transition"
-                    >
-                        View Results
-                    </Link>
+                    
+                    
+                    
+                    
+                    
+                    
                 </div>
             </section>
 
