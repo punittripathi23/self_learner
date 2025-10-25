@@ -5,9 +5,9 @@ import { useNavigate } from "react-router-dom";
 
 export default function MockTestGenerator() {
     const [topic, setTopic] = useState("");
-    const [difficulty, setDifficulty] = useState("medium");
-    const [questionCount, setQuestionCount] = useState(5);
-    const [questionType, setQuestionType] = useState("multiple choice");
+    const [difficulty, setDifficulty] = useState("");
+    const [questionCount, setQuestionCount] = useState("");
+    const [questionType, setQuestionType] = useState("");
     const [extraInstructions, setExtraInstructions] = useState("");
     const [isLoading, setIsLoading] = useState(false); // New loading state
     const [error, setError] = useState(null); // New error message state
