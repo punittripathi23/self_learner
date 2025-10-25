@@ -7,8 +7,8 @@ function Header() {
 
     const navLinks = [
         { path: "/", label: "Home" },
-        { path: "/mocktest", label: "Mock Test Generator" },
-        { path: "/analysis", label: "Result Analysis" },
+       // { path: "/mocktest", label: "Mock Test Generator" },
+       // { path: "/analysis", label: "Result Analysis" },
     ];
 
     return (

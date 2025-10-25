@@ -24,6 +24,11 @@ export default function MockTestGenerator() {
             questionType,
             extraInstructions,
         });
+        if (!prompt ) {
+            setError("Please provide a valid topic for the mock test.");
+            setIsLoading(false);
+            return;
+        }
 
         try {
             const result = await generateMockTest(prompt); // Renamed from data to result for clarity
