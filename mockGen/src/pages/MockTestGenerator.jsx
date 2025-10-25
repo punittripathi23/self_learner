@@ -24,7 +24,7 @@ export default function MockTestGenerator() {
             questionType,
             extraInstructions,
         });
-        if (!prompt ) {
+        if (!prompt.keywords("topic") || topic.trim() === "") {
             setError("Please provide a valid topic for the mock test.");
             setIsLoading(false);
             return;
